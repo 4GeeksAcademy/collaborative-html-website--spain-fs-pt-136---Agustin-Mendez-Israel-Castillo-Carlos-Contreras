@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(178, 180, 182);
+    margin-top: 5px;
+    margin-left: 20%;
+}
+.dropdown{
+    display: flex;
+    justify-content: left;
+}
